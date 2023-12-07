@@ -7,11 +7,11 @@ __Linux__<br>
 javac -cp *.jar *.java -d .
 <br>
 java -cp .:* Main path_of_the_warrior_input_1.xml kingdom_input_1.txt
-__Windows Powershell__<br>
+<br>__Windows Powershell__<br>
 javac -cp *.jar *.java -d .
 <br>
 java -cp '.;*' Main path_of_the_warrior_input_1.xml kingdom_input_1.txt
-__Windows CMD__<br>
+<br>__Windows CMD__<br>
 javac -cp *.jar *.java -d .
 <br>
 java -cp .;* Main path_of_the_warrior_input_1.xml kingdom_input_1.txt
